@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqTaxTree/example/
+Plugin PhyloSeqTaxTree inputfile parameters.txt outputfile output.tree
